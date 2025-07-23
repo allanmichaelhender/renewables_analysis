@@ -1,13 +1,13 @@
-Welcome to our analysis on Renewable Energy in the UK and a delve into 5 companies with their associated stocks.
+Welcome to my analysis on Renewable Energy in the UK and a delve into 5 companies with their associated stocks.
 
-Our data has two sources:
+The data comes from two sources:
 yahoo finance for the stocks data
 UK.gov for the renewables data: https://www.gov.uk/government/statistics/energy-trends-section-6-renewables
 - In particular the Renewable electricity capacity and generation spreadsheet
 
 Within the Renewables_Data folder is the data from UK.gov, reformatted into csv files for analysis
 
-We have two Jupyter notebook files:
+There are two Jupyter notebook files:
 1. stocks analysis
 2. renewable energy generation
 
