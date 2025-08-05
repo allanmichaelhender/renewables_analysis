@@ -1,3 +1,6 @@
+# [Power BI Dashboard](https://github.com/allanmichaelhender/renewables_analysis/blob/main/Power%20BI%20Plots%20PDF.pdf)
+# [Written Report](https://github.com/allanmichaelhender/renewables_analysis/blob/main/Investing%20in%20Renewables%20-%20Report.pdf)
+---
 Welcome to my analysis on Renewable Energy in the UK and a delve into 5 companies with their associated stocks.
 
 The data comes from two sources:
