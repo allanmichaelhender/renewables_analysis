@@ -23,7 +23,7 @@ Using the aformentioned data, we clean and export the data for later use.
 The Exported_Data folder contains data exported from our notebook.
 
 Reports and Analysis:
-- 1. Investing in Renewables - Report PDF
-- 2. Data plots - POWER BI PDF
+1. Investing in Renewables - Report PDF
+2. Data plots - POWER BI PDF
 
 Within these PDF's we explore the data and draw conclusions.
